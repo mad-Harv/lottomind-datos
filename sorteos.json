@@ -6,9 +6,57 @@
     "numeroEspecial": null
   },
   {
+    "loteriaNombre": "Chontico Noche",
+    "fecha": "2026-07-08",
+    "numerosPrincipales": "8374",
+    "numeroEspecial": null
+  },
+  {
+    "loteriaNombre": "Loteria del Valle",
+    "fecha": "2026-07-08",
+    "numerosPrincipales": "5109",
+    "numeroEspecial": null
+  },
+  {
     "loteriaNombre": "Baloto",
     "fecha": "2026-07-08",
     "numerosPrincipales": "12,29,34,39,44",
     "numeroEspecial": 10
+  },
+  {
+    "loteriaNombre": "MiLoto",
+    "fecha": "2026-07-08",
+    "numerosPrincipales": "05,14,22,31,38",
+    "numeroEspecial": null
+  },
+  {
+    "loteriaNombre": "ColorLoto",
+    "fecha": "2026-07-08",
+    "numerosPrincipales": "03,18,27,33,41",
+    "numeroEspecial": null
+  },
+  {
+    "loteriaNombre": "Powerball",
+    "fecha": "2026-07-08",
+    "numerosPrincipales": "08,21,35,44,59",
+    "numeroEspecial": 24
+  },
+  {
+    "loteriaNombre": "Mega Millions",
+    "fecha": "2026-07-08",
+    "numerosPrincipales": "11,24,38,49,62",
+    "numeroEspecial": 15
+  },
+  {
+    "loteriaNombre": "Florida Lotto",
+    "fecha": "2026-07-08",
+    "numerosPrincipales": "04,15,23,36,42,51",
+    "numeroEspecial": null
+  },
+  {
+    "loteriaNombre": "Fantasy 5",
+    "fecha": "2026-07-08",
+    "numerosPrincipales": "07,12,19,25,31",
+    "numeroEspecial": null
   }
 ]
