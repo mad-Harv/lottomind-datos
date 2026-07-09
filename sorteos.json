@@ -1,0 +1,14 @@
+[
+  {
+    "loteriaNombre": "Chontico Dia",
+    "fecha": "2026-07-08",
+    "numerosPrincipales": "4921",
+    "numeroEspecial": null
+  },
+  {
+    "loteriaNombre": "Baloto",
+    "fecha": "2026-07-08",
+    "numerosPrincipales": "12,29,34,39,44",
+    "numeroEspecial": 10
+  }
+]
