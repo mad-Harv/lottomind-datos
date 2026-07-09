@@ -1,0 +1,35 @@
+name: Actualizar Loterias Diario
+
+on:
+  schedule:
+    - cron: '0 8 * * *' # Se ejecuta todos los días a las 8 AM UTC
+  workflow_dispatch: # Permite ejecutarlo manualmente con un botón
+
+permissions:
+  contents: write
+
+jobs:
+  actualizar:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Descargar el repositorio
+        uses: actions/checkout@v3
+
+      - name: Configurar Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Instalar herramientas
+        run: pip install requests beautifulsoup4
+
+      - name: Ejecutar el recolector de datos
+        run: python recolector.py
+
+      - name: Guardar los nuevos sorteos
+        run: |
+          git config --global user.name "LottoMind Bot"
+          git config --global user.email "bot@lottomind.com"
+          git add sorteos.json
+          git commit -m "Actualización diaria de sorteos" || echo "No hay cambios nuevos"
+          git push
