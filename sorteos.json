@@ -1,86 +1,30 @@
 [
   {
-    "loteriaNombre": "Chontico Dia",
-    "fecha": "2026-07-08",
-    "numerosPrincipales": "4921",
-    "numeroEspecial": null
+    "id": "PLAY4-20260708",
+    "lotteryType": "PLAY4",
+    "country": "USA",
+    "drawDate": "2026-07-08",
+    "numbers": "1,2,3,4"
   },
   {
-    "loteriaNombre": "Chontico Noche",
-    "fecha": "2026-07-08",
-    "numerosPrincipales": "8374",
-    "numeroEspecial": null
+    "id": "PLAY4-20260709",
+    "lotteryType": "PLAY4",
+    "country": "USA",
+    "drawDate": "2026-07-09",
+    "numbers": "1,9,3,8"
   },
   {
-    "loteriaNombre": "Loteria del Valle",
-    "fecha": "2026-07-08",
-    "numerosPrincipales": "5109",
-    "numeroEspecial": null
+    "id": "PLAY4-20260710",
+    "lotteryType": "PLAY4",
+    "country": "USA",
+    "drawDate": "2026-07-10",
+    "numbers": "1,5,3,2"
   },
   {
-    "loteriaNombre": "Baloto",
-    "fecha": "2026-07-08",
-    "numerosPrincipales": "12,29,34,39,44",
-    "numeroEspecial": 10
-  },
-  {
-    "loteriaNombre": "MiLoto",
-    "fecha": "2026-07-08",
-    "numerosPrincipales": "05,14,22,31,38",
-    "numeroEspecial": null
-  },
-  {
-    "loteriaNombre": "ColorLoto",
-    "fecha": "2026-07-08",
-    "numerosPrincipales": "03,18,27,33,41",
-    "numeroEspecial": null
-  },
-  {
-    "loteriaNombre": "Powerball",
-    "fecha": "2026-07-08",
-    "numerosPrincipales": "08,21,35,44,59",
-    "numeroEspecial": 24
-  },
-  {
-    "loteriaNombre": "Mega Millions",
-    "fecha": "2026-07-08",
-    "numerosPrincipales": "11,24,38,49,62",
-    "numeroEspecial": 15
-  },
-  {
-    "loteriaNombre": "Florida Lotto",
-    "fecha": "2026-07-08",
-    "numerosPrincipales": "04,15,23,36,42,51",
-    "numeroEspecial": null
-  },
-  {
-    "loteriaNombre": "Fantasy 5",
-    "fecha": "2026-07-08",
-    "numerosPrincipales": "07,12,19,25,31",
-    "numeroEspecial": null
-  },
-  {
-    "loteriaNombre": "Chontico Dia",
-    "fecha": "2026-07-09",
-    "numerosPrincipales": "8382",
-    "numeroEspecial": null
-  },
-  {
-    "loteriaNombre": "Chontico Noche",
-    "fecha": "2026-07-09",
-    "numerosPrincipales": "9437",
-    "numeroEspecial": null
-  },
-  {
-    "loteriaNombre": "Chontico Dia",
-    "fecha": "2026-07-10",
-    "numerosPrincipales": "8382",
-    "numeroEspecial": null
-  },
-  {
-    "loteriaNombre": "Chontico Noche",
-    "fecha": "2026-07-10",
-    "numerosPrincipales": "2967",
-    "numeroEspecial": null
+    "id": "CHONTICO_DIA-20260709",
+    "lotteryType": "CHONTICO_DIA",
+    "country": "Colombia",
+    "drawDate": "2026-07-09",
+    "numbers": "7,7,7,7"
   }
 ]
