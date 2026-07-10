@@ -70,5 +70,17 @@
     "fecha": "2026-07-09",
     "numerosPrincipales": "9437",
     "numeroEspecial": null
+  },
+  {
+    "loteriaNombre": "Chontico Dia",
+    "fecha": "2026-07-10",
+    "numerosPrincipales": "8382",
+    "numeroEspecial": null
+  },
+  {
+    "loteriaNombre": "Chontico Noche",
+    "fecha": "2026-07-10",
+    "numerosPrincipales": "2967",
+    "numeroEspecial": null
   }
 ]
