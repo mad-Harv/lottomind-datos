@@ -1,0 +1,17 @@
+[
+  {
+    "id": "monte_carlo",
+    "nombreUi": "Monte Carlo",
+    "numerosSugeridos": "Pendiente de análisis"
+  },
+  {
+    "id": "posicional",
+    "nombreUi": "Frecuencia Posicional",
+    "numerosSugeridos": "Pendiente de análisis"
+  },
+  {
+    "id": "correlacion_temporal",
+    "nombreUi": "Correlación Temporal",
+    "numerosSugeridos": "Pendiente de análisis"
+  }
+]
