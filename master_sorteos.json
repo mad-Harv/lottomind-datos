@@ -1,0 +1,30 @@
+[
+  {
+    "id": "PLAY4_EVENING-20260709",
+    "lotteryType": "PLAY4",
+    "country": "USA",
+    "drawDate": "2026-07-09",
+    "numbers": "9,9,3,7"
+  },
+  {
+    "id": "PLAY4_MIDDAY-20260709",
+    "lotteryType": "PLAY4",
+    "country": "USA",
+    "drawDate": "2026-07-09",
+    "numbers": "5,5,5,7"
+  },
+  {
+    "id": "FANTASY5_EVENING-20260709",
+    "lotteryType": "FANTASY5",
+    "country": "USA",
+    "drawDate": "2026-07-09",
+    "numbers": "7,8,10,17,21"
+  },
+  {
+    "id": "CHONTICO_DIA-20260709",
+    "lotteryType": "CHONTICO_DIA",
+    "country": "Colombia",
+    "drawDate": "2026-07-09",
+    "numbers": "7,7,7,7"
+  }
+]
